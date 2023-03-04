@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Carbon (ecrasy@gmail.com)
+- 👋 Hi, I’m Carbon 
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning cooking
 - 💞️ I’m looking to collaborate on shooting
-- 📫 How to reach me email
+- 📫 Contact (ecrasy@gmail.com)
 
 <!---
 ecrasy/ecrasy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
