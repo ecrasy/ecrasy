@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Carbon 
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning cooking
-- 💞️ I’m looking to collaborate on shooting
+- 👀 interested in coding
+- 🌱 currently learning cooking
+- 💞️ looking to collaborate on shooting
 - 📫 Contact (ecrasy@gmail.com)
 
 <!---
